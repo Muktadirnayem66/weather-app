@@ -4,6 +4,6 @@ This is a simple weather dashboard app. it is build with react with context
 
 
 
-- [Live URL](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) 
+- [Live URL](https://weather-app-context.vercel.app/) 
 
-- [Github Repo](https://github.com/vitejs/vite-plugin-react-swc) 
+- [Github Repo](https://github.com/Muktadirnayem66/weather-app.git) 
