@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a simple weather deshboard app. it is build with react with context
+This is a simple weather dashboard app. it is build with react with context
 
 
 
